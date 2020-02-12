@@ -22,3 +22,6 @@ Working on Spotify Clone Project
 3.8.1-Spotify:- Playlist Section Design Ready...
 
 4.0.1-Spotify:- Search Page is created and working Properly, Song page Bug fixed, Big(Green) Play Button is working properly...
+
+4.2.1-Soptify:- Create, Delete Playlist is working properly and Popup [sweetalert], notification [plugin] working properly.
+                Adding Songs to the playlist is not done Yet,But Album page have their Option menu activated.
