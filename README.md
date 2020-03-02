@@ -27,3 +27,5 @@ Working on Spotify Clone Project
                 Adding Songs to the playlist is not done Yet,But Album page have their Option menu activated.
 
 4.3.1-Spotify:- Project Completed! But having some minor bugs and design issue that will be fixed into the final version.. :)
+
+Spotify A-Level Final: Project is done all the problems are solved.
